@@ -5,7 +5,7 @@ from .extmath import stable_cumsum
 
 def _weighted_percentile(array, sample_weight, percentile=50):
     """Compute weighted percentile
-    The following code is from sklearn
+    The following code is from sklearn.
 
     Computes lower weighted percentile. If `array` is a 2D array, the
     `percentile` is computed along the axis 0.
