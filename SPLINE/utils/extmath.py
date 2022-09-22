@@ -3,6 +3,8 @@ import numpy as np
 
 def stable_cumsum(arr, axis=None, rtol=1e-05, atol=1e-08):
     """Use high precision for cumsum and check that final value matches sum.
+    The following code is from sklearn.
+    
     Parameters
     ----------
     arr : array-like
