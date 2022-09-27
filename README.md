@@ -2,7 +2,7 @@
 CpSplineTransformer為GPU版本  
 NpSplineTransformer為CPU版本  
   
-加速效果:  
+加速效果:
 ![image](https://github.com/kevin953215/GPU-SplineTransformer/blob/main/Speedup_.png)
   
 Todo-List:  
