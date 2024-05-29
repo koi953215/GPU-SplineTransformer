@@ -1,9 +1,6 @@
 # GPU-SplineTransformer
-CpSplineTransformer為GPU版本  
-NpSplineTransformer為CPU版本  
+CpSplineTransformer: GPU version  
+NpSplineTransformer: CPU version  
   
 ![image](https://github.com/kevin953215/GPU-SplineTransformer/blob/main/Speedup.png)
 ![image](https://github.com/kevin953215/GPU-SplineTransformer/blob/main/MSE.png)
-  
-Todo-List:  
-1.外插補上linear功能
